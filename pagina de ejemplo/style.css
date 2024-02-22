@@ -1,9 +1,10 @@
 body {
     margin: 0;
+    width: 100vw;
+    height: 100vh;
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: center;
     text-align: center;
     font-family: Courier;
     color: gold;
@@ -29,9 +30,9 @@ nav {
 }
 
 footer {
+    justify-self: flex-end;
     background-color: gold;
     color: darkgreen;
     margin: auto 0 0 0;
-    width: 100%;
-    margin: 0 0 auto 0;
+    width: 100%;   
 }
