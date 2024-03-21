@@ -15,7 +15,6 @@ Este repositorio pretende funcionar como muestra de los conocimientos adquiridos
 ### Conocimientos adquiridos durante el curso
 Durante el curso, se trabajaron los siguientes contenidos:
 
-[TOCM]
 
 ##### Crear y administrar un repositorio local:
 Dentro de un repositorio local, podemos realizar numerosas acciones. Muchas de estas acciones pueden realizar también en un repositorio remoto, pero algunas no pueden o no deberían hacerse en remoto.
