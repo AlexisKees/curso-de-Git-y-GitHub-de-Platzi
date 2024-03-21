@@ -6,4 +6,6 @@ Sexto commit
 
 Este es el séptimo commit, se eliminaron el 3ro, 4to y 5to para agregar esta línea
 
-ESTAMOS PROBANDO GIT RESET ARRRRRRUNDEMBLEMBLEM
+En este commit se eliminaron desprolijidades para subir este proyecto a Platzi y certificar los contenidos del curso.
+
+A quien lea esto, un cálido saludo!
